@@ -1,0 +1,11 @@
+{
+  "name": "brad_traversy_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
