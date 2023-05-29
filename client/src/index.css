@@ -169,7 +169,7 @@ h3 {
   transform: scale(0.98);
 }
 
-.loadingSpinnerContainer {
+.loading-spinner-container {
   position: fixed;
   top: 0;
   right: 0;
@@ -182,7 +182,7 @@ h3 {
   align-items: center;
 }
 
-.loadingSpinner {
+.loading-spinner {
   width: 64px;
   height: 64px;
   border: 8px solid;
